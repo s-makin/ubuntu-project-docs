@@ -70,22 +70,3 @@ team at Launchpad.
 When joining the Bug Squad, you will need to keep up-to-date with bug management
 policies. Changes are always announced on the mailing list. For further details
 check with other members on the `#ubuntu-devel` Matrix channel.
-
-
-```{note}
-*This section may not be up to date*
-
-### Activities
-
-* The Bug Squad regularly runs [Hug Days](https://wiki.ubuntu.com/UbuntuBugDay).
-  This is a great way to work with people and learn by getting your hands dirty
-  right away.
-
-* Want to start practising with trivial to handle bugs? Visit the
-  [One Hundred Papercuts](https://wiki.ubuntu.com/One%20Hundred%20Papercuts)
-  project to make it a nutshell!
-
-* Want to do a little everyday? Join [the 5-a-day team](https://wiki.ubuntu.com/5-a-day)
-  to keep Ubuntu healthy!
-```
-
