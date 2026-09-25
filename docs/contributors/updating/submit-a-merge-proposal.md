@@ -194,8 +194,7 @@ Packagesets
 core:
 
 You can not upload postfix to cosmic, yourself.
-But you can still contribute to it via the sponsorship process: https://wiki.ubuntu.com/SponsorshipProcess
-```
+But you can still contribute to it via the {ref}`sponsorship process <sponsorship>`.
 
 It only lists core, so the second reviewer is
 `canonical-server-core-reviewers`. To add the second reviewer:

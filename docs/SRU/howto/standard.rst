@@ -54,8 +54,7 @@ Prepare a special type of SRU <howto-prepare-special-sru>` instead.
 
 6.  If you:
 
-    1. have a debdiff, then `request
-       sponsorship <https://wiki.ubuntu.com/SponsorshipProcess>`__ by
+    1. have a debdiff, then :ref:`request sponsorship <sponsorship>` by
        attaching the debdiff and subscribing 'ubuntu-sponsors' to one
        bug.
     2. have a git-ubuntu branch, then request sponsorship by filing a
