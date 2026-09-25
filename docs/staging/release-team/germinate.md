@@ -2,8 +2,6 @@
 # Germinate
 
 ```{note}
-Page source: [Germinate](https://wiki.ubuntu.com/Germinate)
-
 Will move to:
 * How Ubuntu is made -> concepts
 ```

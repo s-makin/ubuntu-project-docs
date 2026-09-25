@@ -266,7 +266,7 @@ $1 = (foobar_t *) 0x00000008
 
 ## Further reading
 
-* [Ubuntu wiki - Apport](https://wiki.ubuntu.com/Apport)
+* {ref}`Apport <debugging-apport>`
 * [Ask Ubuntu - how to enable/disable Apport](https://askubuntu.com/questions/93457/how-do-i-enable-or-disable-apport)
 * [Ask Ubuntu - how to read or open crash file](https://askubuntu.com/questions/1210651/how-to-read-or-open-crash-file-from-var-crash)
 * [Ubuntu wiki - Apport Retraces](https://wiki.ubuntu.com/Bugs/ApportRetraces)

@@ -3,7 +3,7 @@
 
 ## Apport reports
 
-[Apport](https://wiki.ubuntu.com/Apport) reports are bugs reported via the
+{ref}`Apport <debugging-apport>` reports are bugs reported via the
 Apport bug reporting program. Reporting bugs using Apport is the preferred way
 of reporting a bug since it gives the developers a lot of information about the
 affected system. Some programs have hooks for Apport, which adds more information
