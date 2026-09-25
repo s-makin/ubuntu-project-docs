@@ -220,11 +220,6 @@ This deadline marks the date after which translations for such packages are not
 guaranteed to be included in the final release. Depending on the package and its
 maintainers' workflow, they may be exported later.
 
-```{note}
-The [wiki page](https://wiki.ubuntu.com/NonLanguagePackTranslationDeadline)
-lists the packages this affects: do we want to include this?
-```
-
 Other packages can still be translated until the
 {ref}`language-pack-translation-deadline`.
 
