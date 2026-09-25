@@ -2,8 +2,8 @@
 # Seeds
 
 ```{note}
-* Page source: [wiki - Seed Management](https://wiki.ubuntu.com/SeedManagement)
-* Page source: [wiki - Ubuntu Studio/seeds](https://wiki.ubuntu.com/UbuntuStudio/Seeds)
+* Page source: [wiki - Seed Management](https://github.com/ubuntu/wiki-archives/blob/e1d802e604443adbdd264c281bec7fbcef2a0f34/UbuntuWiki/S/SeedManagement.wiki#L124)
+* Page source: [wiki - Ubuntu Studio/seeds](https://github.com/ubuntu/wiki-archives/blob/e1d802e604443adbdd264c281bec7fbcef2a0f34/UbuntuWiki/U/UbuntuStudio-Seeds.wiki#L4)
 
 This page will be moved to:
 * How Ubuntu is made > concepts >
