@@ -6,9 +6,7 @@ This page should not be moved out of the staging area in its current state.
 If you move content to another section, please delete it from this page.
 ```
 
-
-All this content is saved from
-[the Wiki Archive Admin page](https://wiki.ubuntu.com/ArchiveAdministration)
+All this content is saved from the [Wiki Archive Admin page](https://github.com/ubuntu/wiki-archives/blob/e1d802e604443adbdd264c281bec7fbcef2a0f34/UbuntuWiki/A/ArchiveAdministration.wiki#L4).
 
 
 ## DMB content

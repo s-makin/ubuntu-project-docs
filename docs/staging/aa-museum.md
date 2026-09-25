@@ -6,7 +6,7 @@ This page should not be moved out of the staging area in its current state.
 ```
 
 All this content is saved from
-[the Wiki Archive Admin page](https://wiki.ubuntu.com/ArchiveAdministration)
+[Wiki Archive Admin page](https://github.com/ubuntu/wiki-archives/blob/e1d802e604443adbdd264c281bec7fbcef2a0f34/UbuntuWiki/A/ArchiveAdministration.wiki#L4).
 This page houses all the content which is no longer up-to-date, but might
 still be of historical interest.
 
