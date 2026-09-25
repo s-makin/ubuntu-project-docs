@@ -381,7 +381,7 @@ sync in the old style, you can use the `-s` option to `syncpackage` to do so in
 the name of the requester.
 
 Most updates available in Debian are automatically synced before
-[Debian Import Freeze](https://wiki.ubuntu.com/DebianImportFreeze), but packages
+{ref}`Debian Import Freeze <debian-import-freeze>, but packages
 that were previously in Ubuntu will not be automatically reintroduced. To
 process these interactively:
 
@@ -620,7 +620,7 @@ Additionally, performing the following should be considered:
   of all supported stable releases.
 
 * If we are not yet in the
-  [Debian Import Freeze](https://wiki.ubuntu.com/DebianImportFreeze), run
+  {ref}`Debian Import Freeze <debian-import-freeze>`, run
   `process-removals` to review/remove packages that were removed in Debian.
 
 * Clean up component-mismatches, and poke people to fix dependencies/write MIRs.
