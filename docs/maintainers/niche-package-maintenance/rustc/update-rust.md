@@ -55,7 +55,7 @@ If this Rust version is the target `rust-defaults` version for devel, then you s
 
 #### Bug report for non-default releases
 
-If this Rust version is _not_ the target default for devel, then the process is closer to adding a [new package](https://wiki.ubuntu.com/UbuntuDevelopment/NewPackages) to the archive in general. You can create a general Ubuntu bug tagged with `needs-packaging` and Wishlist importance. A real-life bug report for `rustc-1.86` can {lpbug}`be found here <2117513>`. Notice that it is targeted to the appropriate {term}`series` and tagged accordingly.
+If this Rust version is _not_ the target default for devel, then the process is closer to adding a {ref}`new package <new-packages>` to the archive in general. You can create a general Ubuntu bug tagged with `needs-packaging` and Wishlist importance. A real-life bug report for `rustc-1.86` can {lpbug}`be found here <2117513>`. Notice that it is targeted to the appropriate {term}`series` and tagged accordingly.
 
 ### Setting Up
 

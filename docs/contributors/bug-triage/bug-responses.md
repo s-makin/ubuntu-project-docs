@@ -624,7 +624,7 @@ Thank you for taking the time to report this bug and helping to make Ubuntu bett
 ```{code} none
 :class: codeblock-wrap
 
-Thank you for taking the time to request this package and helping to make Ubuntu better. Unfortunately you have not provided enough information for a developer to start packaging this application. Please make sure this bug meets the guidelines at https://documentation.ubuntu.com/project/how-ubuntu-is-made/processes/new-packages/index.html. An example of a complete package request is available at https://wiki.ubuntu.com/UbuntuDevelopment/NewPackages/ExamplePackageRequest).
+Thank you for taking the time to request this package and helping to make Ubuntu better. Unfortunately you have not provided enough information for a developer to start packaging this application. Please make sure this bug meets the guidelines at https://ubuntu.com/project/docs/how-ubuntu-is-made/processes/new-packages/. An example of a complete package request is available at https://ubuntu.com/project/docs/how-ubuntu-is-made/processes/new-packages/#example-new-package-request).
 ```
 
 

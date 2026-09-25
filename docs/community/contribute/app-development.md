@@ -12,7 +12,7 @@ Contact other app developers on the Ubuntu [app development mailing list](https:
 The majority of source packages in Ubuntu are copied unmodified from Debian; therefore the best route for getting packages into Ubuntu is through Debian. Not only will this help ensure your application is available to Ubuntu users, but to those using Debian and the many Ubuntu flavors, remixes and derivatives. Discover more about the relationship between {ref}`Ubuntu and Debian <debian>`.
 
 * Follow the [Debian Packaging Tutorial](https://www.debian.org/doc/manuals/packaging-tutorial/)
-* Learn the [Ubuntu New Package process](https://wiki.ubuntu.com/UbuntuDevelopment/NewPackages)
+* Learn the {ref}`Ubuntu New Package process <new-packages>`
 
 
 ## Snap applications

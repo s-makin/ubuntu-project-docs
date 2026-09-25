@@ -30,12 +30,12 @@ In addition to understanding common tasks documented in this guide, including {r
 * {ref}`Package sponsorship <sponsorship>`
 * {ref}`Seed handling <seed-management>`
 * {ref}`Main inclusion <main-inclusion-review>` for packages
-* [New package](https://wiki.ubuntu.com/UbuntuDevelopment/NewPackages) integration
+* {ref}`New package <new-packages>` integration
 * {ref}`Transition <transitions>` of packages with new ABI/API requirements
-* [SRU special case exceptions](https://documentation.ubuntu.com/sru/en/latest/reference/package-specific/)
+* {ref}`SRU special case exceptions <reference-package-specific-notes>`
 
 
-Core Devs have a strong working knowledge of Ubuntu project procedures (especially those related to the {ref}`release process <ubuntu-releases>` and support commitments), and an understanding of why they exist; e.g. having done an [SRU](https://documentation.ubuntu.com/sru/en/latest/) or [security fix](https://wiki.ubuntu.com/SecurityTeam/UpdatePreparation).
+Core Devs have a strong working knowledge of Ubuntu project procedures (especially those related to the {ref}`release process <ubuntu-releases>` and support commitments), and an understanding of why they exist; e.g. having done an {ref}`SRU <stable-release-updates-sru>` or [security fix](https://wiki.ubuntu.com/SecurityTeam/UpdatePreparation).
 
 
 ### Trust

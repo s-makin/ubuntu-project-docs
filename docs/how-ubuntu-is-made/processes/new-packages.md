@@ -13,7 +13,7 @@ If instead the release process already reached the Debian Import Freeze, you mus
 To get a package into Ubuntu, [file a bug in Launchpad](https://bugs.launchpad.net/ubuntu/+filebug) and make sure it has the tag [`needs-packaging`](https://lists.ubuntu.com/archives/ubuntu-motu/2007-March/001471.html).
 
 In the bug, mention where to get the source for it and which license it is under.
-An example request [is shown here](https://wiki.ubuntu.com/UbuntuDevelopment/NewPackages/ExamplePackageRequest).
+An example request {ref}`is shown below <example-new-package-request>`.
 Make sure you check which [packages have already been requested](https://launchpad.net/ubuntu/+bugs?field.tag=needs-packaging). 
 
 Since we want Free Software to reach as many people as possible and do not want too much duplication of packaging effort, it is useful for packages that meet the requirements of the [Debian Free Software Guidelines](https://www.debian.org/social_contract) to be requested within Debian's [Work-Needing and Prospective Packages](https://www.debian.org/devel/wnpp/) (WNPP) process by filing a Request for Package (RFP) bug on the WNPP package in Debian's bug tracker.
