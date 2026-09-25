@@ -142,7 +142,7 @@ like Personal packagesets and OEM metapackage packagesets.
     {ref}`mir-exceptions-oem`.
   * [Background thread](https://lists.ubuntu.com/archives/devel-permissions/2020-July/001542.html)
   * Decided at the [DMB meeting of 2020-08-11](https://irclogs.ubuntu.com/2020/08/10/%23ubuntu-meeting.html#t19:01)
-  * Documented at [OEM Archive](https://wiki.ubuntu.com/OEMArchive)
+  * Documented at [OEM Archive](https://wiki.ubuntu.com/OEM_Archive)
 
 (dmb-modify-packagesets)=
 ## How to modify a packageset

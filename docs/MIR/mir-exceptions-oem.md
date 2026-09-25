@@ -26,7 +26,7 @@ propose a streamlined process.
 
 This is the subject of a
 [discussion with the Technical Board](https://lists.ubuntu.com/archives/technical-board/2020-January/002478.html).
-See [OEM Archive](https://wiki.ubuntu.com/OEMArchive) for further details.
+See [OEM Archive](https://wiki.ubuntu.com/OEM_Archive) for further details.
 
 
 ## Process
